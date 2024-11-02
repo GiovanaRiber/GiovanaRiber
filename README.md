@@ -7,14 +7,14 @@
 
 <div align="center">
   <a href="https://github.com/GiovanaRiber">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GiovanaRiber&show_icons=true&theme=gotham"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaRiber&layout=donut&theme=gotham"/>
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=GiovanaRiber&show_icons=true&theme=gotham"/>
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaRiber&layout=donut&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c&perline=3" />
+    <img src="https://skillicons.dev/icons?i=c,py&perline=3" />
   </a>
 </p>
 
