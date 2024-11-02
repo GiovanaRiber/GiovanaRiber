@@ -1,7 +1,10 @@
-
 # Oi!
 
-- `🤓☝️`Estudante de Ciência da Computação - UENP
+<img src="Plankton.webp" align="right" width="100"/>
+
+- 📓 Estudante de Ciência da Computação - UENP
+- 🤓☝️ Estudando C e Python
+- 🖥️
 
 ## Stats!
 
@@ -17,7 +20,6 @@
     <img src="https://skillicons.dev/icons?i=c,py&perline=3" />
   </a>
 </p>
-
  #
  
 <div> 
