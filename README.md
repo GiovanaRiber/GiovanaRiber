@@ -2,8 +2,8 @@
 
 <img src="Plankton.webp" align="right" width="100"/>
 
-- 📓 Estudante de Ciência da Computação - UENP
-- 🤓☝️ Estudando C e Python
+- Estudante de Ciência da Computação - UENP 📓
+- Estudando C e Python 🤓☝️
 - 🖥️
 
 ## Stats!
