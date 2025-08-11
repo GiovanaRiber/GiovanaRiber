@@ -33,8 +33,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanaRiber/GiovanaRiber/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovanaRiber/GiovanaRiber/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GiovanaRiber/GiovanaRiber/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vieiranaju/vieiranaju/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vieiranaju/vieiranaju/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vieiranaju/vieiranaju/output/github-contribution-grid-snake.svg">
   </picture>
+  
+  <p align="right">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23E4E2E2&vCenter=true&lines=Obrigada+por+visitar+meu+perfil+!" />
+  </p>
 </div>
