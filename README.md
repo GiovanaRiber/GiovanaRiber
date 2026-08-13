@@ -8,13 +8,6 @@
 
 ## Stats!
 
-<div align="center">
-  <a href="https://github.com/GiovanaRiber">
-    <img height="185" src="https://github-readme-stats-tau-lake-42.vercel.app/api?username=GiovanaRiber&show_icons=true&theme=gotham"/>
-    <img height="185" src="https://github-readme-stats-tau-lake-42.vercel.app/api/top-langs/?username=GiovanaRiber&layout=donut&theme=gotham"/>
-  </a>
-</div>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,java&perline=3" />
